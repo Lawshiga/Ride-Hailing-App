@@ -15,3 +15,5 @@ The app includes the following features:
   Android SDK tools 26.1.1 |
   Java JDK 1.8.0_92 |
   Firebase
+
+Modified read me
